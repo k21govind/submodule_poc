@@ -1,0 +1,4 @@
+[submodule "my-test-1/test2_submodule"]
+	path = my-test-1/test2_submodule
+	url = https://github.com/k21govind/submodule-poc2.git
+	branch = master
